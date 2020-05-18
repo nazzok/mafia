@@ -1,0 +1,37 @@
+body{
+	margin: 0;
+		font-family: Courier New, Copperplate, sans-serif;
+
+}
+header{
+	background-color: #000039;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1, h2 {
+	font-family: 'Press Start 2P', cursive;
+}
+header h1{
+	color: #fada5e;
+	font-size: 50px;
+}
+header img{
+	border-radius: 170px;
+	width: 300px;
+	border: 20px solid black;
+}
+main {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px
+}
+main img {
+	max-width: 100%;
+}
+h2{
+	/*this isn't working, and I don't know why.  My head hurts, I'm taking a break*/
+	font-size: 30px
+	color: #fada5e;
+}
