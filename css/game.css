@@ -24,7 +24,7 @@ header h1{
 header img{
 	border-radius: 170px;
 	width: 300px;
-	border: 20px solid black;
+	border: 20px #fada5e;
 }
 
 main {
@@ -39,7 +39,7 @@ main img {
 }
 
 h2{
-	/*this isn't working, and I don't know why.  My head hurts, I'm taking a break*/
+
 	font-size: 30px;
 	color: #fada5e;
 	margin: 40px 0 10px;
@@ -52,6 +52,7 @@ a:hover{
 	color: white;
 }
 
+/*this works because I made a class earlier around the paragraph I wanted*/
 p.caption{
 	color: lightgray;
 	font-style: italic;
